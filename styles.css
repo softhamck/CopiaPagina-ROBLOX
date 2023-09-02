@@ -36,7 +36,7 @@ body{
     height: auto;
     margin-right: 0px;
     margin-top: 1px; 
-}
+    cursor: pointer;}
 
 .menu {
     flex: 1;
