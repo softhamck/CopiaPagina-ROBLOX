@@ -1,7 +1,7 @@
 # Página Web de Roblox
 
-![Roblox] (![image](https://github.com/softhamck/Roblox/assets/103977411/629c2c6b-5db9-438b-ae28-6266a112fd36)
-)
+![image](https://github.com/softhamck/Roblox/assets/103977411/8f095ce5-1068-4aee-aa5c-b024529ca37e)
+
 
 Este proyecto es una página web dedicada al emocionante mundo de Roblox, creada con HTML y CSS. Puedes ver el sitio web en vivo [aquí](https://copypage-softhamck.netlify.app/).
 
